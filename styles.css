@@ -243,10 +243,6 @@ header {
   margin-top: 10px;
 }
 
-.pet-caption {
-  height: 250px;
-}
-
 .pet-caption td {
   padding: 0 10px;
   text-align: left;
