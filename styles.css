@@ -243,25 +243,26 @@ header {
   margin-top: 10px;
 }
 
-.pet-caption td {
+/* .pet-caption td {
   padding: 0 10px;
   text-align: left;
-}
+} */
 
-.pet-caption table {
+/* .pet-caption table {
   margin: 0 auto;
   border: dashed 1px #333;
-}
+} */
 
-.pet-caption small {
+/* .pet-caption small {
   padding-left: 20px;
-}
+} */
 
 button {
   width: 380px;
   height: 50px;
   border-radius: 10px;
   box-shadow: 1px 1px 6px#c0c0c0;
+  margin-top: 30px;
 }
 
 button a {
